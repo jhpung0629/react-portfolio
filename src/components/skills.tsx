@@ -30,7 +30,6 @@ export default class Skills extends React.Component<Props, State> {
                   <h5 className="mt-0">C++</h5>
                   <p>스택, 큐, 링크드 리스트, 트리 구현
                   STL(vector, map, queue) 사용경험 있습니다.
-                  C++로 교내 프로그래밍 경진대회 우수상을 수상했습니다.
                   </p>
                   <div>
                     <span className="badge badge-primary">좋음</span>

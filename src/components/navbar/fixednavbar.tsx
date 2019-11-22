@@ -28,9 +28,6 @@ export default class FixedNavBar extends React.Component {
                   <Nav.Link href="#skills">SKILLS</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link href="#works">WORKS</Nav.Link>
-                </Nav.Item>
-                <Nav.Item>
                   <Nav.Link href="#contact">CONTACT</Nav.Link>
                 </Nav.Item>
               </Nav>

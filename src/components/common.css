@@ -1,0 +1,68 @@
+.about-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+  width: 100%;
+}
+
+.skills-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+  width: 100%;
+}
+.common-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5vh;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+}
+
+@media (max-width: 712px) {
+  .row {
+    flex-direction: column;
+  }
+}
+
+.col-lg{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  word-wrap: none;
+  height: 300px;
+  max-height: 500px;
+  font-weight: 500;
+}
+
+.media {
+  height: 300px;
+}
+.col > p {
+  text-align: justify;
+  overflow: scroll;
+}
+
+p {
+  font-size: 20px;
+}
+
+.footer {
+  width: 100vw;
+  margin-top: 5vh;
+  padding: 5vh;
+  background: #222222;
+}
+
+#copyright {
+  color: grey;
+}

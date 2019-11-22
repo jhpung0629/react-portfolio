@@ -1,0 +1,17 @@
+.intro-wrap {
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/img/intro_background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  flex-flow: column;
+}
+
+@media (max-width: 562px) {
+  .intro-wrap {
+    height: 30vh;
+  }
+}

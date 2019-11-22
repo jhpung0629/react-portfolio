@@ -1,0 +1,10 @@
+.intro-icon {
+  min-width: 100px;
+  max-width: 200px;
+  height: auto;
+}
+
+.intro-icon > img {
+  width: 100%;
+  height: 100%;
+}

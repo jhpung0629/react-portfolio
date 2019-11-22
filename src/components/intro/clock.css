@@ -1,0 +1,14 @@
+#timeStringHeader {
+  color: white;
+  font-size: 5vh;
+  text-align: center;
+  
+}
+
+#timeStringHeaderWrap {
+  position: static;
+  bottom: 10vh;
+  padding: 10px 30px;
+  border-radius: 5px;
+  width: 300px;
+}

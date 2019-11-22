@@ -1,3 +1,7 @@
 #nav-wrap {
   width: 60vw;
 }
+ 
+.navbar {
+  background: rgba(0,0,0,0.5);
+}
